@@ -14,3 +14,5 @@
 * Set up and worked at a holiday charity event for underprivileged families in the community
 * Distributed donations and guided activities and games to connect with children
 * Enhanced life-long values of service and community involvement
+
+[Back to Home Page](https://github.com/erinshawhan/midterm-IT1000/blob/main/README.md)
