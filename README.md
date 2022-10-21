@@ -7,4 +7,4 @@ My name is Erin Shawhan and I am currently a sophomore at the University of Miss
 [Work and Volunteer Experience](https://github.com/erinshawhan/midterm-IT1000/blob/main/work-volunteer.md)  
 [Extracurricular Activities](https://github.com/erinshawhan/midterm-IT1000/blob/main/extracurriculars.md)  
 [Awards and Honors](https://github.com/erinshawhan/midterm-IT1000/blob/main/awards-honors.md)  
-[Program Example](https://github.com/erinshawhan/midterm-IT1000/blob/main/cylinder_coatings_estimator.py)
+[Python Program](https://github.com/erinshawhan/midterm-IT1000/blob/main/cylinder_coatings_estimator.py)
