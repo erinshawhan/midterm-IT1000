@@ -25,3 +25,5 @@ _Member - National Honor Society_ (**2019 - 2021**)
 * Collaborated with peers to organize community service events
 * Enriched my connection with my school and my community
 * [About National Honor Society](https://www.nhs.us/about/)
+
+[Back to Home Page](https://github.com/erinshawhan/midterm-IT1000/blob/main/README.md)
