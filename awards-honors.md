@@ -13,3 +13,5 @@ _Fall 2017 - Spring 2021_
 
 Elected Missouri Girls State Delegate  
 _Summer 2020_
+
+[Back to Home Page](https://github.com/erinshawhan/midterm-IT1000/blob/main/README.md)
