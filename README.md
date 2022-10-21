@@ -1,6 +1,6 @@
 # Introduction
 ![Hello](https://github.com/erinshawhan/midterm-IT1000/blob/main/hello.png)  
-My name is Erin Shawhan and I am currently a sophomore at the University of Missouri studying Information Technology. This site provides some information about myself as well as some of my academic and work experience. 
+My name is Erin Shawhan and I am currently a sophomore at the University of Missouri studying Information Technology. This site provides some information about myself as well as some of my academic and work experience. I also included a program I wrote in C# to showcase some of my coding experience. 
 ## Pages
 [Contact](https://github.com/erinshawhan/midterm-IT1000/blob/main/contact.md)  
 [Education](https://github.com/erinshawhan/midterm-IT1000/blob/main/education.md)  
