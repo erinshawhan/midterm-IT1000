@@ -10,3 +10,5 @@
   Graduation: May 2021  
   _High School Diploma_  
   GPA: 4.324
+
+[Back to Home Page](https://github.com/erinshawhan/midterm-IT1000/blob/main/README.md)
